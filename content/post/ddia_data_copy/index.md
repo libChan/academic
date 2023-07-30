@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ddia_data_copy"
+title: "[DDIA]数据复制"
 subtitle: ""
-summary: ""
+summary: "数据复制模型：主从复制，多主复制，无主复制。以及各种模型下的问题和解决方案等。"
 authors: []
 tags: []
 categories: []
